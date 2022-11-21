@@ -1,13 +1,2 @@
-## Installation
-
-1. Clone repo
-2. run `npm install`
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
-
-## Credit
-
-Modified from Scotch.io's auth tutorial
+## Crypto Tracker
+![work-3](https://user-images.githubusercontent.com/113270654/203138042-3a610b02-b4b8-4555-a794-a781ff6961ee.jpg)
